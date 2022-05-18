@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poushali11
 - 👁 I’m interested in Data Science , ML , AI, Business analytics
-- 👩🏽‍💻 I’m currently learning for making data driven tech solutions
+- 👩🏽‍💻 I’m currently working as freelance Data Scientist, BI analyst.
 - 👊 I’m looking to collaborate on AI projects and difference making projects
 - 💌 Reach out to me via my email poushalinag90@gmail.com
 
